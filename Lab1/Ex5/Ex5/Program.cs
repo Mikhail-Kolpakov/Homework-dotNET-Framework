@@ -5,7 +5,7 @@ Console.OutputEncoding = Encoding.UTF8;
 
 const string correctPassword = "fr4LNNbhpBkz8vVbt5rAZz";
 
-Console.WriteLine("Введіть ваш пароль: ");
+Console.Write("Введіть ваш пароль: ");
 string inputPassword = Console.ReadLine()!;
 
 IsPasswordCorrect(correctPassword, inputPassword, "^[a-zA-Z0-9]+$");

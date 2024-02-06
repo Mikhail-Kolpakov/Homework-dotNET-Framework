@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Миша\\Програмування під .NET Framework\\Lab1\\Ex2\\Ex2\\Ex2.csproj": {}
+    "D:\\Миша\\Програмування під .NET Framework\\Homework-dotNET-Framework\\Lab1\\Ex2\\Ex2\\Ex2.csproj": {}
   },
   "projects": {
-    "D:\\Миша\\Програмування під .NET Framework\\Lab1\\Ex2\\Ex2\\Ex2.csproj": {
+    "D:\\Миша\\Програмування під .NET Framework\\Homework-dotNET-Framework\\Lab1\\Ex2\\Ex2\\Ex2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Миша\\Програмування під .NET Framework\\Lab1\\Ex2\\Ex2\\Ex2.csproj",
+        "projectUniqueName": "D:\\Миша\\Програмування під .NET Framework\\Homework-dotNET-Framework\\Lab1\\Ex2\\Ex2\\Ex2.csproj",
         "projectName": "Ex2",
-        "projectPath": "D:\\Миша\\Програмування під .NET Framework\\Lab1\\Ex2\\Ex2\\Ex2.csproj",
+        "projectPath": "D:\\Миша\\Програмування під .NET Framework\\Homework-dotNET-Framework\\Lab1\\Ex2\\Ex2\\Ex2.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Миша\\Програмування під .NET Framework\\Lab1\\Ex2\\Ex2\\obj\\",
+        "outputPath": "D:\\Миша\\Програмування під .NET Framework\\Homework-dotNET-Framework\\Lab1\\Ex2\\Ex2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "G:\\Visual Studio Components\\NuGetPackages"

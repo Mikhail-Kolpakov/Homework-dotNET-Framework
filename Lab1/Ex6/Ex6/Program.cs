@@ -26,9 +26,9 @@ void PrintPrimeNumbers(int upperBound)
     {
         var isPrime = true;
     
-        for (int j = 2; j < Math.Sqrt(number); j++)
+        for (int i = 2; i <= Math.Sqrt(number); i++)
         {
-            if (number % j == 0)
+            if (number % i == 0)
             {
                 isPrime = false;
                 break;

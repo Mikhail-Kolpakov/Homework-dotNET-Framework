@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Миша\\Програмування під .NET Framework\\Lab1\\Ex1\\Ex1\\Ex1.csproj",
+      "projectUniqueName": "D:\\Миша\\Програмування під .NET Framework\\Homework-dotNET-Framework\\Lab1\\Ex1\\Ex1\\Ex1.csproj",
       "projectName": "Ex1",
-      "projectPath": "D:\\Миша\\Програмування під .NET Framework\\Lab1\\Ex1\\Ex1\\Ex1.csproj",
+      "projectPath": "D:\\Миша\\Програмування під .NET Framework\\Homework-dotNET-Framework\\Lab1\\Ex1\\Ex1\\Ex1.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Миша\\Програмування під .NET Framework\\Lab1\\Ex1\\Ex1\\obj\\",
+      "outputPath": "D:\\Миша\\Програмування під .NET Framework\\Homework-dotNET-Framework\\Lab1\\Ex1\\Ex1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "G:\\Visual Studio Components\\NuGetPackages"
