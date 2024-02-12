@@ -15,7 +15,6 @@ return;
 
 (float x, string formula) InputAndCheck()
 {
-    // const float eps = 0.000001f;
     formula = Console.ReadLine()!.ToLower();
     CheckFormula(ref formula);
     
@@ -25,10 +24,7 @@ return;
 
         switch (x)
         {
-            case < -1 or > 1 when formula is "first" or "1":
-                Console.WriteLine("Помилка: значення X повинно бути в межах від -1 до 1");
-                continue;
-            case < 0.000001f when formula is "second" or "2":
+            case < 0 when formula is "second" or "2":
                 Console.WriteLine("Помилка: значення X повинно бути більше 0");
                 continue;
             case var _ when Math.Pow(x, 3) is < -1 or > 1 && formula is "third" or "3":

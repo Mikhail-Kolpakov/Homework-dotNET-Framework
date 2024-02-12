@@ -2,12 +2,13 @@
 
 Console.OutputEncoding = Encoding.UTF8;
 
-Console.WriteLine("Введіть значення варіант формули, за яким бажаєте провести розрахунки: ");
+var a = Input("Введіть значення a: ");
+
+Console.WriteLine("\nВведіть значення варіант формули, за яким бажаєте провести розрахунки: ");
 Console.WriteLine("1/alfa) z = sqrt(a + sin(x))");
 Console.WriteLine("2/beta) z = sqrt(sin(a * x))");
 Console.WriteLine("3/gamma) z = ln(a - x)\n");
 
-var a = Input("Введіть значення a: ");
 var (x, formula) = InputAndCheck(a);
 
 Console.WriteLine($"\nРезультат: {Calculate(x, a, formula):f5}");
@@ -21,7 +22,7 @@ return;
     
     while (true)
     {
-        x = Input("Введіть значення X (градуси): ");
+        x = Input(formula is "gamma" or "3" ? "Введіть значення X: " : "Введіть значення X (градуси): ");
 
         switch (formula)
         {
