@@ -26,7 +26,7 @@ var suitableTransport = motorcycles.Where(m => m.EnginePower >= minEnginePower &
 
 if (suitableTransport.Length is 0)
 {
-    Console.WriteLine("Плаваючих засобів з вказаними параметрами не знайдено");
+    Console.WriteLine("Мотоциклів з вказаними параметрами не знайдено");
     return;
 }
 
