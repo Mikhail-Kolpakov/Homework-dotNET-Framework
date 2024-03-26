@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\\u041C\u0438\u0448\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F \u043F\u0456\u0434 .NET Framework\\Homework-dotNET-Framework\\Lab13\\Ex1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1DCFC217-ADB3-4449-94B6-9EF7D143CE4B}|Ex1\\Ex1.csproj|D:\\\u041C\u0438\u0448\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F \u043F\u0456\u0434 .NET Framework\\Homework-dotNET-Framework\\Lab13\\Ex1\\ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DCFC217-ADB3-4449-94B6-9EF7D143CE4B}|Ex1\\Ex1.csproj|solutionrelative:ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1DCFC217-ADB3-4449-94B6-9EF7D143CE4B}|Ex1\\Ex1.csproj|d:\\\u043C\u0438\u0448\u0430\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F \u043F\u0456\u0434 .net framework\\homework-dotnet-framework\\lab13\\ex1\\ex1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DCFC217-ADB3-4449-94B6-9EF7D143CE4B}|Ex1\\Ex1.csproj|solutionrelative:ex1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DCFC217-ADB3-4449-94B6-9EF7D143CE4B}|Ex1\\Ex1.csproj|d:\\\u043C\u0438\u0448\u0430\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F \u043F\u0456\u0434 .net framework\\homework-dotnet-framework\\lab13\\ex1\\ex1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1DCFC217-ADB3-4449-94B6-9EF7D143CE4B}|Ex1\\Ex1.csproj|D:\\\u041C\u0438\u0448\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F \u043F\u0456\u0434 .NET Framework\\Homework-dotNET-Framework\\Lab13\\Ex1\\ex1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1DCFC217-ADB3-4449-94B6-9EF7D143CE4B}|Ex1\\Ex1.csproj|solutionrelative:ex1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DCFC217-ADB3-4449-94B6-9EF7D143CE4B}|Ex1\\Ex1.csproj|d:\\\u043C\u0438\u0448\u0430\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F \u043F\u0456\u0434 .net framework\\homework-dotnet-framework\\lab13\\ex1\\ex1\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1DCFC217-ADB3-4449-94B6-9EF7D143CE4B}|Ex1\\Ex1.csproj|D:\\\u041C\u0438\u0448\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F \u043F\u0456\u0434 .NET Framework\\Homework-dotNET-Framework\\Lab13\\Ex1\\ex1\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DCFC217-ADB3-4449-94B6-9EF7D143CE4B}|Ex1\\Ex1.csproj|solutionrelative:ex1\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DCFC217-ADB3-4449-94B6-9EF7D143CE4B}|Ex1\\Ex1.csproj|d:\\\u043C\u0438\u0448\u0430\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F \u043F\u0456\u0434 .net framework\\homework-dotnet-framework\\lab13\\ex1\\ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DCFC217-ADB3-4449-94B6-9EF7D143CE4B}|Ex1\\Ex1.csproj|solutionrelative:ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,53 +46,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainForm.cs",
               "DocumentMoniker": "D:\\\u041C\u0438\u0448\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F \u043F\u0456\u0434 .NET Framework\\Homework-dotNET-Framework\\Lab13\\Ex1\\Ex1\\MainForm.cs",
               "RelativeDocumentMoniker": "Ex1\\MainForm.cs",
               "ToolTip": "D:\\\u041C\u0438\u0448\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F \u043F\u0456\u0434 .NET Framework\\Homework-dotNET-Framework\\Lab13\\Ex1\\Ex1\\MainForm.cs",
               "RelativeToolTip": "Ex1\\MainForm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwAsAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-16T14:17:14.406Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "D:\\\u041C\u0438\u0448\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F \u043F\u0456\u0434 .NET Framework\\Homework-dotNET-Framework\\Lab13\\Ex1\\Ex1\\MainForm.cs",
               "RelativeDocumentMoniker": "Ex1\\MainForm.cs",
               "ToolTip": "D:\\\u041C\u0438\u0448\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F \u043F\u0456\u0434 .NET Framework\\Homework-dotNET-Framework\\Lab13\\Ex1\\Ex1\\MainForm.cs [Design]",
               "RelativeToolTip": "Ex1\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T14:11:02.269Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-03-16T14:11:02.269Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MainForm.Designer.cs",
               "DocumentMoniker": "D:\\\u041C\u0438\u0448\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F \u043F\u0456\u0434 .NET Framework\\Homework-dotNET-Framework\\Lab13\\Ex1\\Ex1\\MainForm.Designer.cs",
               "RelativeDocumentMoniker": "Ex1\\MainForm.Designer.cs",
               "ToolTip": "D:\\\u041C\u0438\u0448\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F \u043F\u0456\u0434 .NET Framework\\Homework-dotNET-Framework\\Lab13\\Ex1\\Ex1\\MainForm.Designer.cs",
               "RelativeToolTip": "Ex1\\MainForm.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T14:16:47.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-16T14:16:47.017Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\\u041C\u0438\u0448\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F \u043F\u0456\u0434 .NET Framework\\Homework-dotNET-Framework\\Lab13\\Ex1\\Ex1\\Program.cs",
               "RelativeDocumentMoniker": "Ex1\\Program.cs",
               "ToolTip": "D:\\\u041C\u0438\u0448\u0430\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F \u043F\u0456\u0434 .NET Framework\\Homework-dotNET-Framework\\Lab13\\Ex1\\Ex1\\Program.cs",
               "RelativeToolTip": "Ex1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T14:04:13.674Z"
+              "WhenOpened": "2024-03-16T14:04:13.674Z",
+              "EditorCaption": ""
             }
           ]
         }
